@@ -21,7 +21,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Bytebandit-011/Predictive-Pulse-Harnessing-Machine-Learning-for-Blood-Pressure-Analysis">
-        <img src="https://via.placeholder.com/300x200.png?text=Project+Image" alt="Project 1" style="width:100%; height:200px; object-fit:cover;"/>
+        <img src="https://github.com/user-attachments/assets/b808bb85-dc7b-417d-93c4-5f4c21905008" alt="Project 1" style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Predictive Pulse: Harnessing ML for Blood Pressure Analysis</b><br/>
@@ -31,7 +31,7 @@
     
    <td align="center" width="50%">
       <a href="https://github.com/Bytebandit-011/MI300_AMD_AI_HACKATHON_2025">
-        <img src="https://via.placeholder.com/300x200.png?text=Project+Image" alt="Project 2" style="width:100%; height:200px; object-fit:cover;"/>
+<!--         <img src="https://via.placeholder.com/300x200.png?text=Project+Image" alt="Project 2" style="width:100%; height:200px; object-fit:cover;"/> -->
       </a>
       <br/>
       <b>AI Meeting Scheduler (Hackathon Project)</b><br/>
