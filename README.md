@@ -11,7 +11,7 @@
 ---
 
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,tensorflow,flask,github,html,css,js&size=55&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,tensorflow,flask,github,html,css,bootstrap,js,react,mysql,opencv,sqlite,supabase,sklearn&size=55&perline=7)](https://skillicons.dev)
 
 ---
 
